@@ -14,6 +14,16 @@ The project includes:
 - Defect Tracking
 - Test Reporting
 
+---
+
+## Project Management
+
+This project is managed using Jira Scrum methodology.
+
+**Jira Project:** [View Project Board](https://gregoryplaisir.atlassian.net/jira/software/projects/SCRUM/summary)
+
+---
+
 ## Technology Stack
 
 - Python Flask
